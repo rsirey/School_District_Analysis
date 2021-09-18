@@ -9,14 +9,14 @@ After the initial analysis, there was evidence of academic dishonesty, specifica
 The analysis for the district needed to be conducted a second time, with the ninth grade Thomas High School scores removed, and the results compared with the original analysis. 
 
 The following questions are to be answered by comparing the analysis:
-*How is the district summary affected?
-*How is the school summary affected?
-*How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-*How does replacing the ninth-grade scores affect the following:
-  *Math and reading scores by grade
-  *Scores by school spending
-  *Scores by school size
-  *Scores by school type
+* How is the district summary affected?
+* How is the school summary affected?
+* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+* How does replacing the ninth-grade scores affect the following:
+  * Math and reading scores by grade
+  * Scores by school spending
+  * Scores by school size
+  * Scores by school type
 
 ## Resources
 
@@ -81,6 +81,7 @@ Written description of replacing the ninth graders’ math and reading scores af
 ![size_grade_after.png](Resources/size_grade_after.png)
 
 ### Scores by School Type
+
 ![type_grade_before.png](Resources/type_grade_before.png)
 
 ![type_grade_after.png](Resources/type_grade_after.png)
