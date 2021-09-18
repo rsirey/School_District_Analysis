@@ -44,7 +44,7 @@ The results of the comparative analysis can be seen in the data frames below. Ea
 
 ### District Summary:
 
-![district_summary_before.png](Resources/district_summary_before.png)
+![district_summary_before2.png](Resources/district_summary_before2.png)
 
 ![district_summary_after.png](Resources/district_summary_after.png)
 
