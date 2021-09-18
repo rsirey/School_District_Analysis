@@ -20,14 +20,14 @@ The following questions are to be answered by comparing the analysis:
 
 ## Resources
 
-###Data Sources 
+### Data Sources 
 
 Schools_complete.csv
 
 students_complete.csv
 
 
-###Software 
+### Software 
 
 Python 3.7.6
 
@@ -42,13 +42,13 @@ Anaconda 4.10.1
 
 The results of the comparative analysis can be seen in the data frames below. Each time data frames are shown, the first is the analysis completed including the 9th-grade math and reading scores from Thomas High School, and the latter showing those scores reported as NaNs.
 
-###District Summary:
+### District Summary:
 
 ![district_summary_before.png](Resources/district_summary_before.png)
 
 ![district_summary_after.png](Resources/district_summary_after.png)
 
-###Per School Summary:
+### Per School Summary:
 
 ![per_school_before.png](Resources/per_school_before.png)
 
@@ -56,31 +56,31 @@ The results of the comparative analysis can be seen in the data frames below. Ea
 
 Written description of replacing the ninth graders’ math and reading scores affects Thomas High School’s performance relative to the other schools
 
-###Math Scores by Grade
+### Math Scores by Grade
 
 ![math_grade_before.png](Resources/math_grade_before.png)
 
 ![math_grade_after.png](Resources/math_grade_after.png)
 
-###Reading Scores by Grade 
+### Reading Scores by Grade 
 
 ![reading_grade_before.png](Resources/reading_grade_before.png)
 
 ![reading_grade_after.png](Resources/reading_grade_after.png)
 
-###Scores by School Spending 
+### Scores by School Spending 
 
 ![spending_grade_before.png](Resources/spending_grade_before.png)
 
 ![spending_grade_after.png](Resources/spending_grade_after.png)
 
-###Scores by School Size 
+### Scores by School Size 
 
 ![size_grade_before.png](Resources/size_grade_before.png)
 
 ![size_grade_after.png](Resources/size_grade_after.png)
 
-###Scores by School Type
+### Scores by School Type
 ![type_grade_before.png](Resources/type_grade_before.png)
 
 ![type_grade_after.png](Resources/type_grade_after.png)
